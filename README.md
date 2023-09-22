@@ -1,3 +1,21 @@
 # ExcelR DataScience Assignments
 All the ExcelR Data Science Course Assignments are here.
 
+### [Basic Stats Level 1](https://github.com/anandvedantham/Basic-Stats-Using-Python-Level-1)
+### [Basic Stats Level 2](https://github.com/anandvedantham/Basic-Stats-Using-Python-Level-2)
+### [Hypothesis Testing](https://github.com/anandvedantham/Hypothesis-Testing)
+### [Simple Linear Regression](https://github.com/anandvedantham/Simple-Linear-Regression)
+### [Multiple Linear Regression](https://github.com/anandvedantham/Multiple-Linear-Regression)
+### [Logistic Regression](https://github.com/anandvedantham/Logistic-Regression)
+### [Clustering](https://github.com/anandvedantham/Clustering)
+### [PCA - Principal Component Analysis](https://github.com/anandvedantham/Principal-Component-Analysis)
+### [Association Rules](https://github.com/anandvedantham/Association-Rules)
+### [Recommendation System](https://github.com/anandvedantham/Recommendation-System)
+### [Text Mining](https://github.com/anandvedantham/Text-Mining)
+### [Naïve Bayes](https://github.com/anandvedantham/Naive-Bayes-Classifier)
+### [KNN - K Nearest Neighbors](https://github.com/anandvedantham/K-Nearest-Neighbour-Classifier)
+### [Decision Tree](https://github.com/anandvedantham/Decision-Tree-Classifier)
+### [Random Forest](https://github.com/anandvedantham/Random-Forest-Classifier)
+### [Neural Networks](https://github.com/anandvedantham/Neural-Networks)
+### [Support Vector Machine](https://github.com/anandvedantham/Support-Vector-Machines)
+### [Forecasting](https://github.com/anandvedantham/Forecasting)
